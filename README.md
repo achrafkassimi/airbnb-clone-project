@@ -42,3 +42,11 @@ CI/CD Pipeline Integration:
 Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
 
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
+
+
+Team Roles:
+
+Backend Developer : me
+Database Administrator : me
+Frontend developer : me
+
