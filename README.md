@@ -9,7 +9,7 @@ About the Project (Airbnb Clone Project) is a comprehensive, real-world applicat
 
 Action to automatically keep a table of team members up to date in a repository README.
 
-### The Team:
+### Team Roles
 
 <!--auto-team-table-->
 | 👤 | Username | Location | Bio |
@@ -18,17 +18,19 @@ Action to automatically keep a table of team members up to date in a repository 
 
 <!--/auto-team-table-->
 
-## Technologies Used
+# Technology Stack
 
 * **Django:** Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 * **PostgreSQL:** PostgreSQL is a powerful, open source object-relational database system.
 * **GraphQL:** GraphQL queries access not just the properties of one resource but also smoothly.
 * **Python-dotenv:** For loading environment variables from a `.env` file.
 
-# Database Design Overview
+# Database Design
 
 # Feature Breakdown
 
-# API Security Overview
 
-# CI/CD Pipeline Overview
+# API Security
+
+# CI/CD Pipeline
+
